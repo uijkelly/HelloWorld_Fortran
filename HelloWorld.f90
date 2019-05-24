@@ -4,7 +4,7 @@
 ! Outputs file called:  IAmHere.txt
 !
 ! Jessica A. Kelly
-
+! Adding a comment for github "Training"
 
 program HelloAgainWorldF90
   real, dimension(:), allocatable :: x ! array that we will read into
